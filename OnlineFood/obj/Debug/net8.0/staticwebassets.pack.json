@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\OnlineFood\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OnlineFood.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineFood.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\OnlineFood\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\OnlineFood\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\OnlineFood\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\OnlineFood\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineFood.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineFood.props",
+      "PackagePath": "build\\OnlineFood.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineFood.props",
+      "PackagePath": "buildMultiTargeting\\OnlineFood.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineFood.props",
+      "PackagePath": "buildTransitive\\OnlineFood.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

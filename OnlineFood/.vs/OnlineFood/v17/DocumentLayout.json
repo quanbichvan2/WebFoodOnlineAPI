@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\OnlineFood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C74CC505-B6AF-474A-8E2D-3553C0EBCBDB}|OnlineFood.csproj|e:\\fpt\\c#6\\bt\\asm\\asm_onlinefoodweb\\onlinefood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C74CC505-B6AF-474A-8E2D-3553C0EBCBDB}|OnlineFood.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC3B0EE-9F12-469C-909B-17F47BB49AAA}|..\\Infrastructure\\OnlineFood.DataAccess\\OnlineFood.Repository.csproj|e:\\fpt\\c#6\\bt\\asm\\asm_onlinefoodweb\\infrastructure\\onlinefood.dataaccess\\repositories\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC3B0EE-9F12-469C-909B-17F47BB49AAA}|..\\Infrastructure\\OnlineFood.DataAccess\\OnlineFood.Repository.csproj|e:\\fpt\\c#6\\bt\\asm\\asm_onlinefoodweb\\infrastructure\\onlinefood.dataaccess\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C877ABB2-DB48-4025-ACEE-651CB3175C4F}|..\\UseCase\\UseCase.csproj|e:\\fpt\\c#6\\bt\\asm\\asm_onlinefoodweb\\usecase\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C877ABB2-DB48-4025-ACEE-651CB3175C4F}|..\\UseCase\\UseCase.csproj|e:\\fpt\\c#6\\bt\\asm\\asm_onlinefoodweb\\usecase\\contracts\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352068ED-9FC8-4B6D-89DA-43BAC4A5210B}|..\\Infrastructure\\OnlineFood.Persistence\\OnlineFood.Persistence.csproj|e:\\fpt\\c#6\\bt\\asm\\asm_onlinefoodweb\\infrastructure\\onlinefood.persistence\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74CC505-B6AF-474A-8E2D-3553C0EBCBDB}|OnlineFood.csproj|e:\\fpt\\c#6\\bt\\asm\\asm_onlinefoodweb\\onlinefood\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C74CC505-B6AF-474A-8E2D-3553C0EBCBDB}|OnlineFood.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74CC505-B6AF-474A-8E2D-3553C0EBCBDB}|OnlineFood.csproj|e:\\fpt\\c#6\\bt\\asm\\asm_onlinefoodweb\\onlinefood\\onlinefood.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C74CC505-B6AF-474A-8E2D-3553C0EBCBDB}|OnlineFood.csproj|solutionrelative:onlinefood.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352068ED-9FC8-4B6D-89DA-43BAC4A5210B}|..\\Infrastructure\\OnlineFood.Persistence\\OnlineFood.Persistence.csproj|e:\\fpt\\c#6\\bt\\asm\\asm_onlinefoodweb\\infrastructure\\onlinefood.persistence\\onlinefood.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1A97F7-54E0-4BDD-9D71-D76AB929C820}|..\\Domain\\Domain.csproj|e:\\fpt\\c#6\\bt\\asm\\asm_onlinefoodweb\\domain\\entity\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1A97F7-54E0-4BDD-9D71-D76AB929C820}|..\\Domain\\Domain.csproj|e:\\fpt\\c#6\\bt\\asm\\asm_onlinefoodweb\\domain\\entity\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352068ED-9FC8-4B6D-89DA-43BAC4A5210B}|..\\Infrastructure\\OnlineFood.Persistence\\OnlineFood.Persistence.csproj|e:\\fpt\\c#6\\bt\\asm\\asm_onlinefoodweb\\infrastructure\\onlinefood.persistence\\data\\migrations\\20240720093442_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\UseCase\\Contracts\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\UseCase\\Contracts\\Services\\IProductService.cs",
+              "ToolTip": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\UseCase\\Contracts\\Services\\IProductService.cs",
+              "RelativeToolTip": "..\\UseCase\\Contracts\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:00:49.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\UseCase\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\UseCase\\Services\\ProductService.cs",
+              "ToolTip": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\UseCase\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\UseCase\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:59:21.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\OnlineFood\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\OnlineFood\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-21T08:50:30.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\Infrastructure\\OnlineFood.DataAccess\\Repositories\\Base\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\OnlineFood.DataAccess\\Repositories\\Base\\BaseRepository.cs",
+              "ToolTip": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\Infrastructure\\OnlineFood.DataAccess\\Repositories\\Base\\BaseRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\OnlineFood.DataAccess\\Repositories\\Base\\BaseRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T12:25:01.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\Infrastructure\\OnlineFood.DataAccess\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\OnlineFood.DataAccess\\Repositories\\ProductRepository.cs",
+              "ToolTip": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\Infrastructure\\OnlineFood.DataAccess\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\OnlineFood.DataAccess\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T12:23:35.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\OnlineFood\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\OnlineFood\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T12:17:54.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OnlineFood.csproj",
+              "DocumentMoniker": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\OnlineFood\\OnlineFood.csproj",
+              "RelativeDocumentMoniker": "OnlineFood.csproj",
+              "ToolTip": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\OnlineFood\\OnlineFood.csproj",
+              "RelativeToolTip": "OnlineFood.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAWwBwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-20T12:33:06.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\Infrastructure\\OnlineFood.Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\OnlineFood.Persistence\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\Infrastructure\\OnlineFood.Persistence\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Infrastructure\\OnlineFood.Persistence\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:55:35.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OnlineFood.Persistence.csproj",
+              "DocumentMoniker": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\Infrastructure\\OnlineFood.Persistence\\OnlineFood.Persistence.csproj",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\OnlineFood.Persistence\\OnlineFood.Persistence.csproj",
+              "ToolTip": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\Infrastructure\\OnlineFood.Persistence\\OnlineFood.Persistence.csproj",
+              "RelativeToolTip": "..\\Infrastructure\\OnlineFood.Persistence\\OnlineFood.Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-20T12:29:28.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\Domain\\Entity\\Filter.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entity\\Filter.cs",
+              "ToolTip": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\Domain\\Entity\\Filter.cs",
+              "RelativeToolTip": "..\\Domain\\Entity\\Filter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:59:46.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\Domain\\Entity\\Discount.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entity\\Discount.cs",
+              "ToolTip": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\Domain\\Entity\\Discount.cs",
+              "RelativeToolTip": "..\\Domain\\Entity\\Discount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:56:03.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240720093442_InitialMigration.cs",
+              "DocumentMoniker": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\Infrastructure\\OnlineFood.Persistence\\Data\\Migrations\\20240720093442_InitialMigration.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\OnlineFood.Persistence\\Data\\Migrations\\20240720093442_InitialMigration.cs",
+              "ToolTip": "E:\\FPT\\C#6\\BT\\ASM\\ASM_OnlineFoodWeb\\Infrastructure\\OnlineFood.Persistence\\Data\\Migrations\\20240720093442_InitialMigration.cs",
+              "RelativeToolTip": "..\\Infrastructure\\OnlineFood.Persistence\\Data\\Migrations\\20240720093442_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:34:42.785Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
